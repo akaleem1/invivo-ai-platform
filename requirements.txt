@@ -11,3 +11,5 @@ requests
 tqdm
 psycopg2-binary
 sqlalchemy
+fastapi
+uvicorn
