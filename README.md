@@ -1,4 +1,4 @@
-# InVivo AI Platform
+# InVivo AI Platform — AI Data Engineering Platform for Compound Toxicity Modeling
 
 An AI-enabled data platform for exploring compound toxicity and pharmacological properties using modern data engineering, machine learning, and natural language interfaces.
 
